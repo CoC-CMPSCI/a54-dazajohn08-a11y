@@ -17,7 +17,7 @@ int main()
                 break;
         }
         if(i == num)
-            cout << num << " is prime" << endl;
+            cout << num << " ";
     }
     cout << endl;
     return 0;
